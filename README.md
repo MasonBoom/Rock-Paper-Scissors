@@ -4,7 +4,9 @@ This is the first program I have ever made using C++. Rock paper scissors is a c
 
 This project was built using the following:
  - C++
+ - C++ libraries
    - iostream
    - cstdlib
    - ctime
- - VS Code
+
+To run this project on your local machine, you must have g++ installed. In the project directory, run `g++ r.cpp` in the terminal. After it compiles into an exe file, run `./a.exe` in the command line
