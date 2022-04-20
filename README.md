@@ -10,3 +10,7 @@ This project was built using the following:
    - ctime
 
 To run this project on your local machine, you must have g++ installed. In the project directory, run `g++ r.cpp` in the terminal. After it compiles into an exe file, run `./a.exe` in the command line
+
+Here is a demo of what it should look like when you run the program:
+
+![](https://github.com/MasonBoom/Rock-Paper-Scissors/blob/71f231a222a8744a498cdd6e544e8451af9335dd/r.cpp%20-%20Rock%20Paper%20Scissors%20C++%20-%20Visual%20Studio%20Code%204_20_2022%202_57_07%20AM%20(2).png)
